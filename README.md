@@ -1,4 +1,4 @@
-BlueDog
+RedDog
 
 app folder: contains basic routes  
 config:  contains db information  
